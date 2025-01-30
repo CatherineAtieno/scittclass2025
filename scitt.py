@@ -22,6 +22,6 @@ def guess_the_number():
         else:
           print (f"Congratulations! You have guessed the number in {attempts} attempts.")  
           break
-        print ("thank you for playing the number guess game ")
+        print ("thank you for playing the number guessing game ")
         
 guess_the_number()
